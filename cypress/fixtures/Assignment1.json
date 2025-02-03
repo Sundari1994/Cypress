@@ -1,0 +1,30 @@
+
+{
+    "name"      :   "sundari",
+    "email"     :   "parrot.tps10@gmail.com",
+    "date_dob"  :   27,
+    "month_dob" :   "October",
+    "Company"    : "CTS",
+    "year_dob"  :   1994,
+    "fName"     :   "sundari",
+    "lName"     :   "tester",
+    "password"  :   "sundu",
+    "address"   :   "123, golden road",
+    "Country"   :   "Canada",
+    "State"     :   "TN",
+    "City"      :   "Chennai",
+    "Zipcode"   :   603103,
+    "MobileNo"  :   9876545678,
+    "InValid_uname":"parrot.g@gmail.com",
+    "InValid_pwd" :"sundu",
+    "logindata" : {
+      "Valid Account":{
+        "Valid uname":"parrot.tps3@gmail.com",
+        "Valid pwd" :"sundu"
+      },
+      "InValid Account": {
+        "InValid uname":"parrot.tps4@gmail.com",
+        "InValid pwd" :"sundu"
+      }
+      }
+    }
